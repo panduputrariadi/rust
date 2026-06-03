@@ -1,0 +1,1 @@
+/home/panduputrawork/Documents/Timedoor/Rust/part1/variable/scalar_types/integer_types/target/debug/scalar_types: /home/panduputrawork/Documents/Timedoor/Rust/part1/variable/scalar_types/integer_types/src/main.rs

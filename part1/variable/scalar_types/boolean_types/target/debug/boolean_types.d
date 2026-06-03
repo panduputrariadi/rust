@@ -1,0 +1,1 @@
+/home/panduputrawork/Documents/Timedoor/Rust/part1/variable/scalar_types/boolean_types/target/debug/boolean_types: /home/panduputrawork/Documents/Timedoor/Rust/part1/variable/scalar_types/boolean_types/src/main.rs

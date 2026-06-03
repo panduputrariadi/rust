@@ -1,0 +1,1 @@
+/home/panduputrawork/Documents/Timedoor/Rust/part1/variable/scalar_types/floating_point_types/target/debug/floating_point_types: /home/panduputrawork/Documents/Timedoor/Rust/part1/variable/scalar_types/floating_point_types/src/main.rs
